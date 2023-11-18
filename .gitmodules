@@ -1,0 +1,12 @@
+[submodule "DivEA"]
+	path = DivEA
+	url = https://github.com/uqbingliu/DivEA
+[submodule "EMEA"]
+	path = EMEA
+	url = https://github.com/uqbingliu/EMEA
+[submodule "STEA"]
+	path = STEA
+	url = https://github.com/uqbingliu/STEA
+[submodule "ActiveEA"]
+	path = ActiveEA
+	url = https://github.com/uqbingliu/ActiveEA
